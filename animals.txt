@@ -1,0 +1,8 @@
+dog
+cat
+hamster
+owl
+hawk
+elephant
+parrot
+platypus 
